@@ -7,6 +7,7 @@ Espace collaboratif pour les apprentissages dans le CFC développeur ICT en Suis
 
 ## Première branche, module 259, Machine Learning
 https://github.com/CloudReady-ch/ICT-DEV/blob/main/259-MachineLearning/00-intro.md
+* https://github.com/CloudReady-ch/ICT-DEV/tree/main/259-MachineLearning
 
 # Corrections/Contributions
 Si tu veux contribuer, facile, tu "Fork" et puis tu modifies dans ta copie et tu "Pull request" ton change, avec un petit mot sympa et explicatif.
