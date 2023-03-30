@@ -6,6 +6,10 @@ Développer et configurer diverses applications dans le domaine de l’apprentis
 Plateforme de machine learning existante avec une solution ICT simple à des fins d’analyse d’un jeu de données (classification, clustering ou prédiction).
 ## Contenus
 1. Identifier et évaluer des variantes techniques issues du ML pour la résolution d’un problème.
+  1. Connaître les diverses technologies dans le domaine du machine learning et leurs champs d’application.
+  2. Connaître des variantes de solution et la valeur ajoutée pour les solutions ICT par rapport à des solutions existantes (p. ex. classification, clustering, prévisions).
+  3. Connaître les catégories du machine learning (apprentissage supervisé, apprentissage non supervisé, apprentissage de renforcement [reinforcement learning] et apprentissage profond [deep learning] au moyen de réseaux neuronaux) et sélectionner parmi celles-ci les technologies appropriées pour la solution ICT.
+  4. Connaître des modèles et des méthodes de machine learning (p. ex. méthode des k-plus proches voisins [k-nearest neighbors], k-moyennes[ k-means], arbres de classification, régression linéaire, réseaux neuronaux).
 2. Mettre en œuvre les exigences relatives à la protection des données lors de la collecte et de l’utilisation des données.
 3. Préparer des données brutes pour leur traitement automatique, les classer et les analyser en vue de leur exploitation par ML.
 4. Clarifier la dépendance séquentielle des activités de la technologie de ML choisie et en définir l’ordre chronologique.
