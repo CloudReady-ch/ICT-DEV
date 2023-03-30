@@ -1,3 +1,5 @@
+En français https://www.mozilla.org/fr/MPL/2.0/
+
 Mozilla Public License Version 2.0
 ==================================
 
